@@ -1,0 +1,5 @@
+print(1314)
+print(3.14)
+print(1,3,1,4)
+print(192,168,1,1,sep='.')
+print('hello world'+'\n'+'2023')
