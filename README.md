@@ -1,2 +1,3 @@
 # Study
-This is a place where you can find my study code/学习代码捏
+This is a place where you can find my school contest code
+马拉松代码
