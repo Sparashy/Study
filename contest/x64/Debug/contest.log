@@ -1,0 +1,4 @@
+﻿  1.cpp
+D:\code\c\contest\1.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\code\c\contest\1.cpp(26): warning C4172: 返回局部变量或临时变量的地址: ret
+  contest.vcxproj -> D:\code\c\contest\x64\Debug\contest.exe
